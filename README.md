@@ -9,3 +9,7 @@ This repository contains projects related to Data Science. Each project focuses 
 
 2. **Netflix Data Analysis**  
    Explore Netflix data to understand viewing patterns, popular genres, and user preferences.
+
+
+3. **Clinic Analysis**  
+   Analyze clinic data to determine how many people visit, identify the age groups of patients, and study the prevalence of highly occurring diseases across different age groups.
